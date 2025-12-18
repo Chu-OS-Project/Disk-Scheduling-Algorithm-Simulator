@@ -1,0 +1,2 @@
+:HL["/Disk-Scheduling-Algorithm-Simulator/_next/static/chunks/6b29b141f3a6100f.css","style"]
+0:{"buildId":"NTgr5h5e8MSWABXFYAh_1","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
